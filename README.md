@@ -9,6 +9,7 @@ You can check my previous video on how to go about it. [YouTube](https://www.you
 ```
 from IPython.display import IFrame
 ```
+IFrame (Inline Frame) is an element that loads another HTML element inside of a web page. Let see how we can use this feature inside of Jupyter Python notebook.
 
 ## Step 2: Write a variable that get the Report
 
